@@ -1,7 +1,7 @@
 # Mesh Generation for Medical Shapes
 
 **IG.2413 — Deep Learning (2024/2025)**
-Master's Project (Engineering cycle, ISEP Paris) — Computer Vision.
+Master's Project (Engineering cycle, ISEP Paris) — Deep Learning.
 Goal: paper implementation of "LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models, Zhengyi Wang et al., 2024". Fine-tuned the model to generate medical shapes.
 
 ## Summary
